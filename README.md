@@ -49,5 +49,12 @@ touch 1.txt
 Creación de Tag
 Crear un tag v0.1
 
+git tag -a v0.1 -m 'My versión v0.1'
+
+Subir cambios
+Subir los cambios al repositorio remoto
+
+git add .
+git commit -am 'v0.1'
 
 
