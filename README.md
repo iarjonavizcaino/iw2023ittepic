@@ -56,5 +56,5 @@ Subir los cambios al repositorio remoto
 
 git add .
 git commit -am 'v0.1'
-
+git push origin main
 
