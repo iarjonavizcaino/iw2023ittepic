@@ -12,5 +12,7 @@ Crear en tu repositorio local un documento README.md
 
 Se creó al momento de crear el repositorio en Github de manera visual
 
+Commit Inicial
+Añadir al README.md los comandos utilizados hasta ahora y hacer un commit inicial con el mensaje Initial commit
 
 
